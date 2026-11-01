@@ -1,0 +1,14 @@
+C:\Users\MARIBELL\DocuTrack\bin\Debug\net10.0\DocuTrack.exe
+C:\Users\MARIBELL\DocuTrack\bin\Debug\net10.0\DocuTrack.deps.json
+C:\Users\MARIBELL\DocuTrack\bin\Debug\net10.0\DocuTrack.runtimeconfig.json
+C:\Users\MARIBELL\DocuTrack\bin\Debug\net10.0\DocuTrack.dll
+C:\Users\MARIBELL\DocuTrack\bin\Debug\net10.0\DocuTrack.pdb
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.AssemblyInfoInputs.cache
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.AssemblyInfo.cs
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.csproj.CoreCompileInputs.cache
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.dll
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\refint\DocuTrack.dll
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.pdb
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\DocuTrack.genruntimeconfig.cache
+C:\Users\MARIBELL\DocuTrack\obj\Debug\net10.0\ref\DocuTrack.dll
